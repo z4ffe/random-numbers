@@ -12,7 +12,6 @@
 		DA3B7B112B1D31B1009B25B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA3B7B102B1D31B1009B25B3 /* Assets.xcassets */; };
 		DA3B7B142B1D31B1009B25B3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA3B7B132B1D31B1009B25B3 /* Preview Assets.xcassets */; };
 		DA3B7B1C2B1D31F2009B25B3 /* ConfettiSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = DA3B7B1B2B1D31F2009B25B3 /* ConfettiSwiftUI */; };
-		DA3B7B1F2B1D3808009B25B3 /* preview.png in Resources */ = {isa = PBXBuildFile; fileRef = DA3B7B1E2B1D3808009B25B3 /* preview.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,7 +20,6 @@
 		DA3B7B0E2B1D31B0009B25B3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DA3B7B102B1D31B1009B25B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA3B7B132B1D31B1009B25B3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		DA3B7B1E2B1D3808009B25B3 /* preview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = preview.png; path = ../../../Desktop/preview.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,7 +37,6 @@
 		DA3B7B002B1D31B0009B25B3 = {
 			isa = PBXGroup;
 			children = (
-				DA3B7B1E2B1D3808009B25B3 /* preview.png */,
 				DA3B7B0B2B1D31B0009B25B3 /* random_numbers */,
 				DA3B7B0A2B1D31B0009B25B3 /* Products */,
 			);
@@ -138,7 +135,6 @@
 			files = (
 				DA3B7B142B1D31B1009B25B3 /* Preview Assets.xcassets in Resources */,
 				DA3B7B112B1D31B1009B25B3 /* Assets.xcassets in Resources */,
-				DA3B7B1F2B1D3808009B25B3 /* preview.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
