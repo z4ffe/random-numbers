@@ -82,7 +82,7 @@ struct ContentView: View {
                 .bold()
             Divider()
                 .frame(width: 270)
-            Text("Random Numbers")
+            Text("Random Number")
                 .monospaced()
                 .bold()
             Text("Generator")
